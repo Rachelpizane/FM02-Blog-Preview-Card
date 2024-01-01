@@ -8,21 +8,19 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot-page-blog-preview-card](img/screenshot-page-blog-preview-card.png)
 
 
 ### Links
 
-- Live Site URL: [GitHub Page - Blog preview card](https://your-live-site-url.com)
+- Live Site URL: [GitHub Page - Blog preview card](https://rachelpizane.github.io/FM02-Blog-Preview-Card/)
 
 ## My process 🗺️
-
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-
 
 ### What I learned
 
