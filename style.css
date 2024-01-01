@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;600;800&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    /* border: 1px solid red; */
+}
+
+body {
+    font-family: 'Figtree', sans-serif;
+    height: 100vh;
+    display: grid;
+    background-color: #f4d04e;
+    color: #121212;
+    font-size: 0.9rem;
+}
+
+.box {
+    display: grid;
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+    place-content: center;
+    gap: 15px;
+    border-radius: 20px;
+    border: 1px solid #121212;
+    box-shadow: 8px 8px 1px #121212;
+    background-color: #fff;
+}
+
+.box-image{
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.box-tag {
+    display: inline-block;
+    width:fit-content;
+    background-color: #f4d04e;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+
+.box-time {
+    display: block;
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.box-title:hover {
+    cursor: pointer;
+    color: #f4d04e;
+}
+
+.box-resume {
+    color:#808080;
+}
+
+.box-profile {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.profile-image {
+    width: 3rem;
+}
+
+.profile-name {
+    font-weight: 800;
+}
+
+.attribution {
+    place-self: end center ;
+    margin-bottom: 10px;
+    font-size: 0.8rem;
+}
